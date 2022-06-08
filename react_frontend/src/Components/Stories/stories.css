@@ -1,0 +1,51 @@
+/* ///////////////POST CARDS///////////////*/
+/* ///////////////POST CARDS///////////////*/
+/* ///////////////POST CARDS///////////////*/
+
+.postContainer {
+  margin: 0 10%;
+}
+
+.cardGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.card {
+  border: none;
+  height: fit-content;
+  width: 500px;
+}
+
+.card .text-muted i {
+  margin: 0 10px;
+}
+
+.action {
+  cursor: pointer;
+}
+
+.warnings {
+  color: red;
+}
+
+
+/* ///////////////COMMENTS///////////////*/
+/* ///////////////COMMENTS///////////////*/
+/* ///////////////COMMENTS///////////////*/
+.message {
+  width: 100%;
+}
+
+
+.btnSubmit {
+  display: flex;
+  float: right;
+  transition: all 0.5s ease;
+}
+
+.btnSubmit:hover {
+  letter-spacing: 1rem;
+}

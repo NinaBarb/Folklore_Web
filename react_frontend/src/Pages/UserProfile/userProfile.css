@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Cinzel&display=swap');
+
+body {
+  color: white;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-size: 10vw;
+  padding-left: 7vw;
+  margin-bottom: 0;
+}
+
+h3 {
+  margin-top: 0;
+  padding-left: 7vw;
+}
+
+section {
+  display: flex;
+  height: 101vh;
+  font-family: 'Cinzel', serif;
+  font-size: larger;
+  align-items: center;
+}
+
+section div p {
+  text-align: center;
+}
