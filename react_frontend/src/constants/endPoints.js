@@ -2,6 +2,7 @@
 const endpoint = "https://folklore-oicar.herokuapp.com/"
 //const endpoint = "http://127.0.0.1:8091/"
 
+
 const EndPoints = {
     registerEndPoint: endpoint + 'register',
     loginEndPoint: endpoint + 'login',
