@@ -1,5 +1,5 @@
 
-const endpoint = "https://folklore-oicar.herokuapp.com/"
+const endpoint = "https://folklore-web.vercel.app/"
 //const endpoint = "http://127.0.0.1:8091/"
 
 
